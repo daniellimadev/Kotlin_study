@@ -14,7 +14,7 @@
 ## Description
 
 * The repository presents the codes built during my studies to learn the Kotlin language, as study material: books, documentation, research and courses.
-* Studies are separated into 5 modules
+* Studies are separated into 6 modules
   <img src="">
 
 <br>
@@ -31,7 +31,7 @@
 ### Study: Practical Introduction to the Kotlin Programming Language
 Folder in the repository: [src/main/kotlin/introduction](https://github.com/daniellimadev/Kotlin_study/tree/main/src/main/kotlin/introduction)
 
-| Seção | Aula                                               | Arquivo                                                                                                                                                                                                    |
+| Section | Study                                               | File                                                                                                                                                                                                    |
 |:------|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | ---   | Hello, World!!                                     | [src/main/kotlin/introduction/helloWorld.kt](https://github.com/daniellimadev/Kotlin_study/blob/main/src/main/kotlin/introduction/helloWorld.kt)                                                           |
 | ---   | Functions - Default Parameter Values and Arguments | [src/main/kotlin/introduction/functionsDefaultValuesAndNamedArguments.kt](https://github.com/daniellimadev/Kotlin_study/blob/main/src/main/kotlin/introduction/functionsDefaultValuesAndNamedArguments.kt) |
