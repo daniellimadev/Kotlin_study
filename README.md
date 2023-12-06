@@ -23,7 +23,7 @@
 > [!IMPORTANT]
 > The files are related to each study. Therefore, the name of each file is a summary of the name of its respective study.
 
-**Hierarchy:** Module > Course > Section > Class (file)
+**Hierarchy:** Module > Study > Section > Class (file)
 
 <br>
 
